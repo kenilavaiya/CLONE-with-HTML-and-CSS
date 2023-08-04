@@ -263,6 +263,7 @@ html,body{
         width: 100%;
      }
      #btwo{
+         min-hight:50vh;
         width: 100%;
      }
      #bthree{
@@ -280,5 +281,9 @@ html,body{
 
      #bthree #b3top {
         background-color: rgb(28, 28, 28);
+     }
+
+    #bthree #b3bottom{
+        min-height: 40vh;
      }
 }
